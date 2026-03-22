@@ -1,0 +1,236 @@
+{
+  "userId": "demo-user",
+  "name": "Rohith",
+  "headline": "Aspiring AI Engineer focused on internships in applied ML and full-stack AI.",
+  "targetRoles": [
+    "AI Engineer Intern",
+    "Machine Learning Intern",
+    "Full-Stack AI Developer"
+  ],
+  "preferredLanguage": "English",
+  "yearsOfExperience": 1,
+  "skills": [
+    "Python",
+    "Next.js",
+    "Node.js",
+    "Tailwind CSS",
+    "SQL",
+    "LangChain",
+    "Prompt Engineering"
+  ],
+  "missingSkills": [
+    "Data Structures",
+    "System Design",
+    "MLOps",
+    "Docker",
+    "Vector Databases"
+  ],
+  "projects": [
+    {
+      "name": "Campus StudyBot",
+      "description": "Built a retrieval-based learning assistant for student FAQs.",
+      "stack": [
+        "Next.js",
+        "Node.js",
+        "Supabase",
+        "OpenAI"
+      ],
+      "outcome": "Used by 120 students during finals week."
+    },
+    {
+      "name": "Resume Ranker",
+      "description": "Parsed resumes and ranked them against internship job descriptions.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Sentence Transformers"
+      ],
+      "outcome": "Improved recruiter screening time by 35% in a college club pilot."
+    }
+  ],
+  "codingWeaknesses": [
+    "Dynamic programming under time pressure",
+    "SQL joins in interviews",
+    "Over-explaining projects without metrics"
+  ],
+  "learningBehavior": [
+    "Learns fast through hands-on builds",
+    "Consistency drops during exam weeks",
+    "Responds well to milestone-based roadmaps"
+  ],
+  "internships": [
+    {
+      "id": "application-1774178836994",
+      "company": "amazon",
+      "role": "software developer",
+      "status": "interview",
+      "date": "2026-03-22T11:27:16.994Z",
+      "notes": "Strong product fit. Need stronger interview preparation for DSA and APIs.",
+      "matchScore": 82
+    },
+    {
+      "id": "application-1774165388149",
+      "company": "Hindsight AI",
+      "role": "AI Engineer Intern",
+      "status": "applied",
+      "date": "2026-03-22T07:43:08.149Z",
+      "notes": "Great fit for memory-backed agent systems. Need stronger Docker proof.",
+      "matchScore": 86
+    },
+    {
+      "id": "app-1",
+      "company": "Vector Labs",
+      "role": "AI Intern",
+      "status": "rejected",
+      "date": "2026-02-10",
+      "notes": "Strong project discussion but weak DSA round.",
+      "matchScore": 71
+    },
+    {
+      "id": "app-2",
+      "company": "CraftAI",
+      "role": "Full-Stack AI Intern",
+      "status": "interview",
+      "date": "2026-03-11",
+      "notes": "Need cleaner resume bullets and stronger API deployment examples.",
+      "matchScore": 84
+    }
+  ],
+  "resumes": [
+    {
+      "id": "resume-1774178774449",
+      "title": "AI Internship Resume",
+      "summary": "Focused on AI internships with full-stack product shipping evidence.",
+      "content": "P ROHITH\n\nGithub: https://github.com/Puttarohith\n\nLinkedin: linkedin.com/in/rohith-putta-76b1b8245\nEmail: puttarohithcrazy@gmail.com\n\nPhone: 9000060668\n\nCAREER OBJECTIVE\n\nTo work as a Software Engineer where I can use my coding skills, learn new technologies, and contribute to the company’s growth.\n\nEDUCATION\n\nB.Tech – Computer Science (Artificial Intelligence ) 2023–2027\n• VEMU Institute of Technology, Chittoor\n• CGPA: 8.38\n\nTECHNICAL SKILLS\n\n• Programming: Python, C\n• Databases: MySQL\n• Tools: Git, VS Code\n• Other: Problem solving, Debugging, Algorithms\n\nPROJECTS\n\n• AI-Based Crop & Fertilizer Recommendation Chatbot – A Python chatbot that recommends suitable crops, fertilizers, and next-crop rotation.\n• Real-Time Emotion Detection System – A Python OpenCV tool that identifies emotions (Happy/Neutral) from live webcam feed using Haar cascade models.\n• VISTRA: AI-based accident detection system using video and audio analysis with automatic drone-based emergency response.\n\nCERTIFICATIONS\n\n• Career Essentials in Generative AI — LinkedIn & Microsoft\n• AWS Cloud Practitioner Essentials - AWS\n• Professional Diploma in Agile Product Management — MTF Institute (Udemy)\n\nCOMPETITIONS\n\n• Finalist – Aarohan, IIT Bombay Techfest (Viksit Bharat 2047)\n• Winner of Project Expo 2K26 at Vemu Institute of Technology for presenting an innovative engineering project\n\nSTRENGTHS\n\nStrong problem-solving ability and good understanding of Python and AI basics.\n\nHOBBIES\n\nWorking on Arduino projects, building drones, and exploring new technologies.\n\nLANGUAGES\n\nEnglish | Telugu",
+      "createdAt": "2026-03-22T11:26:14.449Z",
+      "improvements": [
+        "Add measurable impact to every project bullet.",
+        "Align summary to the target internship theme.",
+        "Keep the strongest AI stack evidence above the fold."
+      ]
+    },
+    {
+      "id": "resume-1774175957022",
+      "title": "Ml intern",
+      "summary": "Focused on AI internships with full-stack product shipping evidence.",
+      "content": "Rohith\nProjects: Resume Ranker, Campus StudyBot\nSkills: Python, Next.js, Node.js, SQL\nExperience: Built AI products for campus workflows.",
+      "createdAt": "2026-03-22T10:39:17.022Z",
+      "improvements": [
+        "Add measurable impact to every project bullet.",
+        "Align summary to the target internship theme.",
+        "Keep the strongest AI stack evidence above the fold."
+      ]
+    },
+    {
+      "id": "resume-1",
+      "title": "General AI Internship Resume",
+      "summary": "Focused on projects and coursework.",
+      "content": "Rohith\nSkills: Python, Next.js, Node.js, SQL, Prompt Engineering\nProjects: Campus StudyBot, Resume Ranker",
+      "createdAt": "2026-02-01",
+      "improvements": [
+        "Add quantified metrics for both projects",
+        "Move skills into grouped categories",
+        "Highlight internship readiness with deployment experience"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "application-1774178836994",
+      "kind": "application",
+      "title": "amazon - software developer",
+      "detail": "INTERVIEW: Strong product fit. Need stronger interview preparation for DSA and APIs.",
+      "date": "2026-03-22T11:27:16.994Z",
+      "impact": "positive",
+      "tags": [
+        "application",
+        "interview"
+      ]
+    },
+    {
+      "id": "resume-1774178774457",
+      "kind": "resume",
+      "title": "AI Internship Resume",
+      "detail": "Focused on AI internships with full-stack product shipping evidence.",
+      "date": "2026-03-22T11:26:14.449Z",
+      "impact": "positive",
+      "tags": [
+        "resume",
+        "builder"
+      ]
+    },
+    {
+      "id": "resume-1774175957031",
+      "kind": "resume",
+      "title": "Ml intern",
+      "detail": "Focused on AI internships with full-stack product shipping evidence.",
+      "date": "2026-03-22T10:39:17.022Z",
+      "impact": "positive",
+      "tags": [
+        "resume",
+        "builder"
+      ]
+    },
+    {
+      "id": "application-1774165388149",
+      "kind": "application",
+      "title": "Hindsight AI - AI Engineer Intern",
+      "detail": "APPLIED: Great fit for memory-backed agent systems. Need stronger Docker proof.",
+      "date": "2026-03-22T07:43:08.149Z",
+      "impact": "positive",
+      "tags": [
+        "application",
+        "applied"
+      ]
+    },
+    {
+      "id": "event-1",
+      "kind": "project",
+      "title": "Shipped Resume Ranker",
+      "detail": "Completed FastAPI backend and semantic ranking workflow.",
+      "date": "2026-01-15",
+      "impact": "positive",
+      "tags": [
+        "project",
+        "python",
+        "nlp"
+      ]
+    },
+    {
+      "id": "event-2",
+      "kind": "application",
+      "title": "Vector Labs rejection",
+      "detail": "DSA round exposed weakness in dynamic programming.",
+      "date": "2026-02-10",
+      "impact": "warning",
+      "tags": [
+        "application",
+        "dsa",
+        "feedback"
+      ]
+    },
+    {
+      "id": "event-3",
+      "kind": "resume",
+      "title": "Resume revision v1",
+      "detail": "Added AI project outcomes but still missing metrics on impact.",
+      "date": "2026-02-18",
+      "impact": "neutral",
+      "tags": [
+        "resume"
+      ]
+    },
+    {
+      "id": "event-4",
+      "kind": "skill",
+      "title": "Started MLOps foundations",
+      "detail": "Began learning Docker and model deployment basics.",
+      "date": "2026-03-05",
+      "impact": "positive",
+      "tags": [
+        "mlops",
+        "docker"
+      ]
+    }
+  ]
+}

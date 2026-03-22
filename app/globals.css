@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: "Plus Jakarta Sans";
+}
+
+body {
+  @apply bg-[#f7f8fb] text-slate-900 antialiased;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(15, 23, 42, 0.25) transparent;
+}
+
+.panel {
+  @apply rounded-[28px] border border-[#e8ebf2] bg-white shadow-sm;
+}
+
+.eyebrow {
+  @apply inline-flex items-center rounded-full border border-orange-200 bg-orange-50 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-orange-700;
+}
+
+.metric-card {
+  @apply panel p-6;
+}
+
+.soft-card {
+  @apply rounded-3xl border border-[#eceef4] bg-white p-6;
+}
+
+.nav-item {
+  @apply flex items-center gap-3 rounded-2xl px-5 py-4 text-[18px] font-medium text-slate-500 transition;
+}
+
+.nav-item-active {
+  @apply bg-[#ff980f] text-white shadow-[0_10px_24px_rgba(255,152,15,0.28)];
+}
+
+.page-title {
+  @apply text-[34px] font-semibold tracking-tight text-slate-900;
+}
+
+.page-subtitle {
+  @apply mt-2 text-[18px] text-slate-500;
+}
+
+.orange-button {
+  @apply inline-flex items-center justify-center rounded-2xl bg-[#ff980f] px-5 py-3 text-sm font-semibold text-white shadow-[0_10px_22px_rgba(255,152,15,0.26)] transition hover:bg-[#f08a05];
+}
+
+.muted-button {
+  @apply inline-flex items-center justify-center rounded-2xl bg-[#f7f3ee] px-5 py-3 text-sm font-semibold text-slate-500 transition hover:bg-[#f1ebe4];
+}
